@@ -10,13 +10,9 @@ This website currently dosen't do much, but feel free to check it out.
 
 # 📝 To-Do
 
+🟢 = Completed, 🟡 = Planned
+
 Things I'm planning to add to the website:
-
-🟢 = Completed
-
-🟡 = Planned
-
-─
 
 🟢 Finish Basic Website
 
