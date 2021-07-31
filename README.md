@@ -29,7 +29,7 @@ Things I'm planning to add to the website:
 Right now, this website dosen't really have any point, but eventually it will become something much bigger. 
 For now, just check it out and look at the code.
 
-As mentioned earlier, I am currently learning JavaScript, HTML, and CSS through www.codecademy.com amd hope to make changes to this website reflecting what I am learning.
+As mentioned earlier, I am currently learning JavaScript, HTML, and CSS through <a href="www.codecademy.com>CodeCademy</a> and hope to make changes to this website reflecting what I am learning.
 
 # 🤯 What the Tech YouTube
 
