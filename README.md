@@ -16,10 +16,15 @@ Things I'm planning to add to the website:
 
 🟡 = Planned
 
+
 🟢 Finish Basic Website
+
 🟡 Add multiple HTML Pages
+
 🟡 Add some JavaScript
+
 🟡 Stylize with CSS
+
 🟡 Turn into Website for my YouTube
 
 # 📊 Website is a WIP
