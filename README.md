@@ -1,9 +1,12 @@
+# 🔗 Website URL
+
+Check out my website here: https://gab3zorro.github.io/FirstWebsite/
+Hosted with GitHub Pages for the time being.
+
 # 📋 About
 
 This is my first website ever. As I learn more about code languages, I will update this website with what I have learned.
 This website currently dosen't do much, but feel free to check it out.
-
-Current Website URL: https://gab3zorro.github.io/FirstWebsite/
 
 # 📝 To-Do
 
