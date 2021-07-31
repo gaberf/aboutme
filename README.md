@@ -16,6 +16,7 @@ Things I'm planning to add to the website:
 
 🟡 = Planned
 
+─
 
 🟢 Finish Basic Website
 
