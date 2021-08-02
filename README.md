@@ -1,6 +1,7 @@
 # 🔗 Website URL
 
-Check out my website here: https://gab3zorro.github.io/FirstWebsite/
+<a href="https://dagabey.github.io/FirstWebsite/">Link to Website</a>
+
 Hosted with GitHub Pages for the time being.
 
 # 📋 About
