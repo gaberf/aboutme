@@ -1,13 +1,13 @@
-# 🔗 Website URL
+# ⚡ v2.0 is here!
+https://dagabey.github.io/MainWebsite/
 
-<a href="https://dagabey.github.io/FirstWebsite/">Link to Website</a>
+Website hosted with GitHub Pages 🔗
 
-Hosted with GitHub Pages for the time being.
+Images hosted with ImgBB 🖼️
 
 # 📋 About
 
-This is my first website ever. As I learn more about code languages, I will update this website with what I have learned.
-This website currently dosen't do much, but feel free to check it out.
+This is my first website ever. 🏹 The Website is currently on v2.0, and is now  my main website. I will continue adding features as I learn more about coding languages, with v3.0 having more JavaScript involved.
 
 # 📝 To-Do
 
@@ -15,20 +15,25 @@ This website currently dosen't do much, but feel free to check it out.
 
 Things I'm planning to add to the website:
 
+⚡Released on 2.0
+
 🟢 Finish Basic Website
+
+🟢 Add a bit of JavaScript
+
+🟢 Stylize with CSS
+
+💡 To Be Released
 
 🟡 Add multiple HTML Pages
 
-🟡 Add some JavaScript
+🟡 Work in more JavaScript
 
-🟡 Stylize with CSS
-
-🟡 Turn into Website for my YouTube
+🟡 Add APIs
 
 # 📊 Website is a WIP
 
-Right now, this website dosen't really have any point, but eventually it will become something much bigger. 
-For now, just check it out and look at the code.
+The Website is constantly being updated, and will have more features monthly.
 
 As mentioned earlier, I am currently learning JavaScript, HTML, and CSS through CodeCademy and hope to make changes to this website reflecting what I am learning.
 
