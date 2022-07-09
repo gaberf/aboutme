@@ -1,5 +1,5 @@
 # ⚡ v2.0 is here!
-https://gaberf.github.io/MainWebsite/
+https://gaberf.github.io/aboutme/
 
 Website hosted with GitHub Pages 🔗
 
