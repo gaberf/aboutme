@@ -1,0 +1,115 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gabriel Fox</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="pageOne">
+        <div class="tenPerHeight">
+            <p id="link-img-container">
+                <a href="https://twitter.com/gaberfox_" target="_blank">
+                    <img style="width: 50px; height: 45px;" src="/images/twitterlight.png" class="linkImg">
+                </a>
+                <a href="https://www.instagram.com/gaberfox_/" target="_blank">
+                    <img style="width: 50px; height: 50px;" src="/images/instagramlight.png" class="linkImg">
+                </a>
+                <a href="https://github.com/gaberf" target="_blank">
+                    <img style="width: 50px; height: 50px;" src="/images/githublight.png" class="linkImg">
+                </a>
+            </p>
+        </div>
+        <div class="twentyPerHeight"></div>
+        <div class="fortyPerHeight vert-center-container"> 
+            <div class="vert-center">
+                <p style="font-size: 20px;" class="center-text">👋 Hey, I'm</p>
+                <h1 id="title">Gabriel Fox</h1>
+            </div>    
+        </div>
+        <div class="twentyPerHeight"></div>
+        <div class="tenPerHeight vert-center-container">
+            <div class="vert-and-hor">
+                <button onClick="document.getElementById('pageTwo').scrollIntoView();">
+                    <h1 id="scrollDownText">⬇️ About Me</h1>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div id="pageTwo">
+        <div class="fifteenPerHeight"></div>
+        <div id="aboutMeContent">
+            <div id="aboutMeLeft" class="vert-center-container">
+                <div id="aboutMeImg" class="vert-and-hor">
+                </div>
+            </div>
+            <div id="aboutMeRight" class="vert-center-container">
+                <div class="vert-center">
+                    <h1 id="aboutMeText">About Me</h1>
+                    <p id="aboutMePara">I'm Gabe, a 14 y/o freshman &#128102;&#127997; in high school living in Austin, Texas. I like to code front end web-apps that are well-designed &#10024; and increase productivity.  I know most of HTML, &#127912; CSS, and JavaScript, and am in the middle of learning React. When I'm not coding, I enjoy playing basketball &#127936; and running track & cross-country.</p>
+                </div>
+            </div>
+        </div>
+        <div style="height: 5%"></div>
+        <div class="tenPerHeight vert-center-container">
+            <div class="vert-and-hor">
+                <button onClick="document.getElementById('pageThree').scrollIntoView();">
+                    <h1 id="scrollDownText">⬇️ My Projects</h1>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div id="pageThree">
+        <div class="fifteenPerHeight vert-center-container">
+            <h1 class="vert-and-hor" id="projects-text">Projects</h1>
+        </div>
+        <div class="seventyPerHeight">
+            <a href="https://chrome.google.com/webstore/detail/quickle/gpoaepicffnilnbidlggcmenncjffbff?hl=en-US" target="_blank">
+                <div id="quickleImg" class="fortyFivePerHeight fortyPerWidth marginAuto"></div>
+            </a>
+            <div class="tenPerHeight"></div>
+            <a href="https://github.com/gaberf" target="_blank">
+                <div id="checkGithubImg" class="fortyFivePerHeight fortyPerWidth marginAuto"></div>
+            </a>
+        </div>
+        <div class="fivePerHeight"></div>
+        <div class="tenPerHeight vert-center-container">
+            <div class="vert-and-hor">
+                <button onClick="document.getElementById('footer').scrollIntoView();">
+                    <h1 id="scrollDownText">⬇️ My Socials</h1>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+        <div class="tenPerHeight vert-center-container">
+            <div class="vert-and-hor">
+                <h1>Let's stay in touch.</h1>
+            </div>
+        </div>
+        <div class="sevenPerHeight">
+            <p id="link-img-container">
+                <a href="https://twitter.com/gaberfox_" target="_blank">
+                    <img style="width: 50px; height: 45px;" src="/images/twitterlight.png" class="linkImg">
+                </a>
+                <a href="https://www.instagram.com/gaberfox_/" target="_blank">
+                    <img style="width: 50px; height: 50px;" src="/images/instagramlight.png" class="linkImg">
+                </a>
+                <a href="https://github.com/gaberf" target="_blank">
+                    <img style="width: 50px; height: 50px;" src="/images/githublight.png" class="linkImg">
+                </a>
+            </p>
+        </div>
+        <div class="tenPerHeight vert-center-container">
+            <div class="vert-and-hor">
+                <button onClick="document.getElementById('pageOne').scrollIntoView();">
+                    <h1 id="scrollDownText">⬆️ Back to Top</h1>
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans&display=swap');
+
+* {
+    margin: 0%;
+    font-family: 'Albert Sans', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#pageOne {
+    background-image: url(/images/darkPageOne.png);
+    background-size: cover;
+}
+
+#pageTwo {
+    background-color: #121212;
+}
+
+#pageThree {
+    background-color: #1a1818;
+}
+
+#footer {
+    background-color: #121212;
+}
+
+p, h1, h2, h3, h4, input {
+    color: white;
+}
+
+#scrollDownText {
+    outline: 3px solid white;
+}
+
+.linkImg:hover {
+    -webkit-filter: contrast(10%);
+    filter: contrast(10%);
+}
+
+
+/*
+@media (prefers-color-scheme: light) {
+    #pageOne {
+        background-image: url(/images/lightPageOne.png);
+        background-size: cover;
+    }
+    
+    p, h1, h2, h3, h4, input {
+        color: black;
+    }
+
+    #scrollDownText {
+        outline: 3px solid black;
+    }
+
+    .linkImg {
+        -webkit-filter: invert(100%);
+        filter: invert(100%);
+    }
+}
+*/
+
+a {
+    text-decoration: none;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+}
+
+#title {
+    text-align: center;
+    font-size: 105px;
+    font-family: 'Fira Code', monospace;;
+}
+
+#scrollDownText {
+    text-align: center;
+    font-size: 20px;
+    border-radius: 6px;
+    width: fit-content;
+    padding: 3px 11px 3px 10px;
+    transition: 0.1s;
+}
+
+#scrollDownText:hover {
+    background-color: lightgray;
+}
+
+.linkImg {
+    margin: 10px 5px 5px 5px;
+    transition: 0.1s;
+}
+
+#link-img-container {
+    text-align: center;
+}
+
+#aboutMeContent {
+    height: 70%;
+    width: 80%;
+    margin: auto;
+}
+
+#aboutMeLeft {
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+#aboutMeRight {
+    width: 50%;
+    height: 100%;
+    float: right;
+}
+
+#aboutMeText {
+    font-family: 'Fira Code', monospace;;
+    font-size: 4vw;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+#aboutMePara {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#aboutMeImg {
+    height: 90%;
+    width: 90%;
+    background-image: url(/images/meAtLaJolla.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+}
+
+#aboutme-img-container {
+    text-align: center;
+    width: 100%;
+}
+
+#projects-text {
+    font-size: 60px;
+}
+
+#quickleImg {
+    background-image: url(/images/quickleProj.png);
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+    transition: 0.1s;
+}
+
+#checkGithubImg {
+    background-image: url(/images/githubProj.png);
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+    transition: 0.1s;
+}
+
+#quickleImg:hover {
+    width: 50% !important;
+    cursor: crosshair;
+}
+
+#checkGithubImg:hover {
+    width: 50% !important;
+    cursor: crosshair;
+}
+
+.vert-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.vert-and-hor {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.marginAuto {
+    margin: auto;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.vert-center-container {
+    position: relative;
+}
+
+.seventyPerheight {
+    height: 70%;
+}
+
+.fiftyPerHeight {
+    height: 50%;
+}
+
+.fortyFivePerHeight {
+    height: 45%;
+}
+
+.fortyPerHeight {
+    height: 40%;
+}
+
+.thirtyPerHeight {
+    height: 30%;
+}
+
+.twentyFivePerHeight {
+    height: 25%;
+}
+
+.twentyPerHeight {
+    height: 20%;
+}
+
+.fifteenPerHeight {
+    height: 15%;
+}
+
+.tenPerHeight {
+    height: 10%;
+}
+
+.sevenPerHeight {
+    height: 7%;
+}
+
+.fivePerHeight {
+    height: 5%;
+}
+
+.threePerHeight {
+    height: 3%;
+}
+
+.fortyPerWidth {
+    width: 40%;
+}
