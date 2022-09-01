@@ -36,7 +36,3 @@ Things I'm planning to add to the website:
 The Website is constantly being updated, and will have more features monthly.
 
 As mentioned earlier, I am currently learning JavaScript, HTML, and CSS through CodeCademy and hope to make changes to this website reflecting what I am learning.
-
-# 🤯 What the Tech YouTube
-
-What the Tech is my new Tech YouTube channel focusing on computer/console/mobile related things. Be sure to check it out here: https://www.youtube.com/channel/UC3vTQpO_BOr9c8eQ1axqWQQ
